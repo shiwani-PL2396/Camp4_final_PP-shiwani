@@ -1,0 +1,12 @@
+E:\Camp_4-console app _pp\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.GeneratedMSBuildEditorConfig.editorconfig
+E:\Camp_4-console app _pp\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.AssemblyInfoInputs.cache
+E:\Camp_4-console app _pp\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.AssemblyInfo.cs
+E:\Camp_4-console app _pp\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.csproj.CoreCompileInputs.cache
+E:\Camp_4-console app _pp\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\bin\Debug\net8.0\CMS-ClassLibraryDBConnectivity.deps.json
+E:\Camp_4-console app _pp\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\bin\Debug\net8.0\CMS-ClassLibraryDBConnectivity.pdb
+E:\Camp_4-console app _pp\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.csproj.AssemblyReference.cache
+E:\Camp_4-console app _pp\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.dll
+E:\Camp_4-console app _pp\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\refint\CMS-ClassLibraryDBConnectivity.dll
+E:\Camp_4-console app _pp\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-ClassLibraryDBConnectivity.pdb
+E:\Camp_4-console app _pp\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\ref\CMS-ClassLibraryDBConnectivity.dll
+E:\Camp_4-console app _pp\CMS-Project-2025\CMS-ClassLibraryDBConnectivity\obj\Debug\net8.0\CMS-Clas.2DFF4E47.Up2Date

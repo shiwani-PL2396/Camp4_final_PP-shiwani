@@ -1,0 +1,14 @@
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\bin\Debug\net8.0\ClassLibraryValidation.deps.json
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\bin\Debug\net8.0\ClassLibraryValidation.pdb
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.AssemblyInfoInputs.cache
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.AssemblyInfo.cs
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.csproj.CoreCompileInputs.cache
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.dll
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\refint\ClassLibraryValidation.dll
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.pdb
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ref\ClassLibraryValidation.dll
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\bin\Debug\net8.0\ClassLibrary_Validation.dll
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\bin\Debug\net8.0\ClassLibrary_Validation.pdb
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLibraryValidation.csproj.AssemblyReference.cache
+E:\Camp_4-console app _pp\CMS-Project-2025\ClassLibraryValidation\obj\Debug\net8.0\ClassLib.ACCFD905.Up2Date

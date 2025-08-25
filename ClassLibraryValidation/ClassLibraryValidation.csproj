@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibraryValidation">
+      <HintPath>bin\Debug\net8.0\ClassLibraryValidation.dll</HintPath>
+    </Reference>
+    <Reference Include="ClassLibrary_Validation">
+      <HintPath>..\..\..\VisualStudio\camp4_final-project_presentation-sln\ClassLibrary_Validation\bin\Debug\net8.0\ClassLibrary_Validation.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
